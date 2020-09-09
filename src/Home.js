@@ -25,7 +25,7 @@ function Home() {
             title="Samsung TV"
             price={300.99}
             image="https://cdn.shopify.com/s/files/1/2660/5202/products/am1b6aqoaovlr9feumj5_1400x.jpg?v=1571710395"
-            rating={5}
+            rating={3}
           />
         </div>
         <div className="home__row">
@@ -34,7 +34,7 @@ function Home() {
             title="Samsung Watch"
             price={159.99}
             image="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6360/6360444_sd.jpg"
-            rating={5}
+            rating={1}
           />
           <Product
             id="123111111"
@@ -48,7 +48,7 @@ function Home() {
             title="iPhone X"
             price={699.99}
             image="https://www.fonez.ie/wp-content/uploads/2020/04/iPhoneXSilver.jpg"
-            rating={5}
+            rating={4}
           />
         </div>
         <div className="home__row">
@@ -57,7 +57,7 @@ function Home() {
             title="Toaster"
             price={39.99}
             image="https://images-na.ssl-images-amazon.com/images/I/81Mr8di8BmL._AC_SL1500_.jpg"
-            rating={5}
+            rating={3}
           />
         </div>
       </div>
