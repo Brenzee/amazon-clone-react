@@ -1,6 +1,5 @@
 ## Amazon clone on ReactJS
 
-#
 
 ### Technologies used in the project
 
